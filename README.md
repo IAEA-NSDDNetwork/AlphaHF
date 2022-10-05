@@ -5,6 +5,9 @@ Please address any feedback to Jun Chen chenj@frib.msu.edu
 
 ## Change history
 
+#### 2022-10
+Bug fixes
+
 #### 2022-07
 Beta version. It also has a simple interactive window (click on "simple tool" in the program window) for users to type input parameters and calculate HF or R0 for a single branch.
 
