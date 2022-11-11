@@ -1,4 +1,4 @@
-# AlphaHF-test
+# AlphaHF
 AlphaHF is a Java code to calculate Hindrance Factor and nuclear radius parameter R0 for alpha decay. It is intended to replace the ALPHAD_RADD, ALPHAD, and RADD fortran codes. AlphaHF is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
 Please address any feedback to Jun Chen chenj@frib.msu.edu
